@@ -1,14 +1,3 @@
-// Boo
-/* 
+const scoreDisplay    = document.getElementById('score-display')
+const questionDisplay = document.getElementById('question-display')
 
-
-
-
-
-
-*/
-let log = console.log
-
-let x = 1234
-
-log(x)
