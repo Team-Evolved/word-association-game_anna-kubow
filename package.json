@@ -4,7 +4,7 @@
   "description": "JavaScript Tutorial-freeCodeCamp-YT-url_https://www.youtube.com/watch?v=vYEkEMfoi1c&t=21s",
   "main": "app.js",
   "scripts": {
-    "build": "sass --watch scss/main.scss:public/css/main.css",
+    "build": "npm run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
