@@ -1,0 +1,25 @@
+{
+  "name": "word-association-game_anna-kubow",
+  "version": "1.0.0",
+  "description": "JavaScript Tutorial-freeCodeCamp-YT-url_https://www.youtube.com/watch?v=vYEkEMfoi1c&t=21s",
+  "main": "app.js",
+  "scripts": {
+    "build": "sass --watch src/scss/main.scss:public/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Evolved/word-association-game_anna-kubow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-Evolved/word-association-game_anna-kubow/issues"
+  },
+  "homepage": "https://github.com/Team-Evolved/word-association-game_anna-kubow#readme",
+  "devDependencies": {
+    "run": "^1.4.0",
+    "sass": "^1.64.2"
+  }
+}
